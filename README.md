@@ -237,5 +237,5 @@ python tests/test_scroll_404_regression.py
 ## Author
 
 **Abhiram Anish**
-- 🔗 [LinkedIn](https://linkedin.com/in/abhiramanish)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhiram-anish-ba8457248/)
 - 🐙 [GitHub](https://github.com/AbhiramAnish)
